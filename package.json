@@ -1,8 +1,8 @@
 {
-    "name": "HTML5ApplicationSample2",
+    "name": "HTML5ApplicationSample",
     "version": "1.0.0",
     "keywords": ["util", "functional", "server", "client", "browser"],
-    "author": "artasda",
+    "author": "davik3000",
     "contributors": [],
     "dependencies": {}
 }
